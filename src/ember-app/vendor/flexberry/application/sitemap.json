@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Prim2",
+  "applicationTitle": "Prim2",
+  "items": [
+    {
+      "link": null,
+      "menuName": "prim2",
+      "caption": "Prim2",
+      "title": "Prim2",
+      "children": [
+        {
+          "link": "i-i-s-prim2-пример-l",
+          "menuName": null,
+          "caption": "Пример",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

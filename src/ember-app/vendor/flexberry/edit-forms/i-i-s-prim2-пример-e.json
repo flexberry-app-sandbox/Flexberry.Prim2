@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Пример",
+  "name": "IISPrim2ПримерE",
+  "className": "ПримерE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prim2-пример",
+      "modelProjection": "ПримерE"
+    }
+  ]
+}

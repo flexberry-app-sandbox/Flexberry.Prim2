@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prim2-пример-e",
+  "editForm": "i-i-s-prim2-пример-e",
+  "external": false,
+  "caption": "Пример",
+  "name": "IISPrim2ПримерL",
+  "className": "ПримерL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prim2-пример",
+      "modelProjection": "ПримерL"
+    }
+  ]
+}
