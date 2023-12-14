@@ -28,6 +28,7 @@ export default Controller.extend({
             link: 'i-i-s-prim2-пример-l',
             caption: i18n.t('forms.application.sitemap.prim2.i-i-s-prim2-пример-l.caption'),
             title: i18n.t('forms.application.sitemap.prim2.i-i-s-prim2-пример-l.title'),
+            icon: 'tags',
             children: null
           }]
         }
