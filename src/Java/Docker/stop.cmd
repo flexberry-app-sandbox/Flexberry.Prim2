@@ -1,0 +1,1 @@
+docker-compose -p prim2-java down
